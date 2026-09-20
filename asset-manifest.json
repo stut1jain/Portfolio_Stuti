@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Stuti/static/css/main.63d1c8a0.css",
+    "main.js": "/Portfolio_Stuti/static/js/main.2be8989f.js",
+    "index.html": "/Portfolio_Stuti/index.html",
+    "main.63d1c8a0.css.map": "/Portfolio_Stuti/static/css/main.63d1c8a0.css.map",
+    "main.2be8989f.js.map": "/Portfolio_Stuti/static/js/main.2be8989f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d1c8a0.css",
+    "static/js/main.2be8989f.js"
+  ]
+}
