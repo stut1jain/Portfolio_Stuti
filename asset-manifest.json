@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio_Stuti/static/css/main.f021b559.css",
-    "main.js": "/Portfolio_Stuti/static/js/main.f5948db9.js",
+    "main.css": "/Portfolio_Stuti/static/css/main.603e1c44.css",
+    "main.js": "/Portfolio_Stuti/static/js/main.5aec9f73.js",
     "index.html": "/Portfolio_Stuti/index.html",
-    "main.f021b559.css.map": "/Portfolio_Stuti/static/css/main.f021b559.css.map",
-    "main.f5948db9.js.map": "/Portfolio_Stuti/static/js/main.f5948db9.js.map"
+    "main.603e1c44.css.map": "/Portfolio_Stuti/static/css/main.603e1c44.css.map",
+    "main.5aec9f73.js.map": "/Portfolio_Stuti/static/js/main.5aec9f73.js.map"
   },
   "entrypoints": [
-    "static/css/main.f021b559.css",
-    "static/js/main.f5948db9.js"
+    "static/css/main.603e1c44.css",
+    "static/js/main.5aec9f73.js"
   ]
 }
